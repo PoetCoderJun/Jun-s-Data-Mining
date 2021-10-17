@@ -9,7 +9,7 @@
 ## 要求
 - Python 3
 - Jupyter notebook或Jupyter lab
-- 用到的Python库：pandas, numpy, scikit-learn, plotly, seaborn,dtreeviz
+- 用到的Python库：pandas, numpy, scikit-learn, plotly, seaborn,dtreeviz
 ## 说明
 
 Analysis.ipynb 是数据分析的主要代码
